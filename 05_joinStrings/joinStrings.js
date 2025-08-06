@@ -11,6 +11,7 @@
 firstName = "Carlos"
 lastName = "Stevenson"
 thisYear = 1965
+birthYear = 1947
 
 
 
