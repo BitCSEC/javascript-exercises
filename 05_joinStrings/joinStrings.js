@@ -14,8 +14,9 @@ thisYear = 1965
 birthYear = 1947
 
 fullName = firstName + " " + lastName
+age = thisYear - birthYear
 
-greeting = `Hello! My name is ${fullName} and I am ${thisYear - birthYear} years old.`
+greeting = `Hello! My name is ${fullName} and I am ${age} years old.`
 
 
 
