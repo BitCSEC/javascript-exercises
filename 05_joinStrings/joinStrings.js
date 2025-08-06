@@ -10,6 +10,7 @@
 // Add your code right below, good luck!
 firstName = "Carlos"
 lastName = "Stevenson"
+thisYear = 1965
 
 
 
